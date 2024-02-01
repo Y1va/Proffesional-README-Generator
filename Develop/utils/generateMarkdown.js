@@ -82,7 +82,7 @@ function generateMarkdown(data) {
 
   ## Questions
 
-  If you have any questions, feel free to reach out to me at ${data.email}
+  If you have any questions, feel free to reach out to me at ${data.email}. Find my other projects at [${data.github}](https://github.com/${data.github}/).
 `;
 }
 
