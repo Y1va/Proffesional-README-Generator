@@ -8,7 +8,7 @@
 
   ## Demo
 
-  ![Demo](./images/demoreadme.gif)
+  ![Demo](./Develop/images/demoreadme.gif)
 
   ## Table of Contents
 
